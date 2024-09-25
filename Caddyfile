@@ -1,0 +1,6 @@
+localhost:8001 {
+    root * /var/www/my-portfolio
+    file_server
+    header Content-Type text/html
+}
+
